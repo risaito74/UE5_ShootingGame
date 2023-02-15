@@ -1624,3 +1624,799 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2023.02.15-03.48.06:657][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.02.15-03.48.06:661][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
 [2023.02.15-03.48.06:696][486]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.02.15-04.40.13:321][862]LogDerivedDataCache: C:/Users/to_sa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.049 and deleted 0 files with total size 0 MiB. Scanned 5932 files in 5794 folders with total size 53 MiB.
+[2023.02.15-04.47.36:916][691]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06
+[2023.02.15-04.47.36:916][691]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06
+[2023.02.15-04.47.36:923][691]LogActorFactory: Actor Factory spawned SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06 as actor: AmbientSound /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AmbientSound_0
+[2023.02.15-04.47.36:923][691]LogActorFactory: Actor Factory spawned SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06 as actor: AmbientSound /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AmbientSound_0
+[2023.02.15-04.47.38:164][838]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06
+[2023.02.15-04.47.38:164][838]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06
+[2023.02.15-04.47.38:179][838]LogActorFactory: Actor Factory spawned SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06 as actor: AmbientSound /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AmbientSound_UAID_A8A159B95A9FD26601_1355437831
+[2023.02.15-04.47.38:179][838]LogActorFactory: Actor Factory spawned SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06 as actor: AmbientSound /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AmbientSound_UAID_A8A159B95A9FD26601_1355437831
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: ================================================
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: Total job queries 157, among them cache hits 24 (15.29%)
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: Tracking 133 distinct input hashes that result in 111 distinct outputs (83.46%)
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: RAM used: 1.09 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.13%
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: Shaders Compiled: 16
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100.00%)
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: Average time worker was idle: 262.32 s
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: Time job spent in pending queue: average 0.34 s, longest 1.30 s
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: Job execution time: average 0.97 s, max 1.28 s
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: Job life time (pending + execution): average 1.31 s, max 2.01
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.93 s
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: Average processing rate: 5.46 jobs/sec
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: Total thread time: 11.06 s
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: Total thread preprocess time: 0.85 s
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: Percentage time preprocessing: 7.71%
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: Effective parallelization: 3.77 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.77 sec, max 0.90 sec, min 0.55 sec)
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.75 sec, max 0.92 sec, min 0.50 sec)
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display:                                            FDistortionMeshPS (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 40.64% of total time (compiled    6 times, average 0.75 sec, max 0.92 sec, min 0.50 sec)
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 34.90% of total time (compiled    5 times, average 0.77 sec, max 0.90 sec, min 0.55 sec)
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display:                                            FDistortionMeshVS - 6.31% of total time (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.64% of total time (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display:                                            FDistortionMeshPS - 5.56% of total time (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2023.02.15-04.47.42:349][305]LogShaderCompilers: Display: ================================================
+[2023.02.15-04.48.16:506][ 95]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06
+[2023.02.15-04.48.36:333][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.02.15-04.48.37:505][ 67]LogSlate: Window 'コンテンツを保存' being destroyed
+[2023.02.15-04.48.37:517][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-04.48.37:582][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Audio/Starter_Wind06" FILE="../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Content/StarterContent/Audio/Starter_Wind06.uasset" SILENT=true
+[2023.02.15-04.48.37:585][ 67]LogSavePackage: Moving output files for package: /Game/StarterContent/Audio/Starter_Wind06
+[2023.02.15-04.48.37:586][ 67]LogSavePackage: Moving '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Saved/Starter_Wind069F4C23FF40154E7901732BBBBF8B882D.tmp' to '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Content/StarterContent/Audio/Starter_Wind06.uasset'
+[2023.02.15-04.48.37:588][ 67]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JH/DZHICUVT1FQET6S5WY4QXD
+[2023.02.15-04.48.37:588][ 67]LogSavePackage: Moving '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Saved/DZHICUVT1FQET6S5WY4QXDBD8031B648F02BF79A3CED8D97BD40EB.tmp' to '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JH/DZHICUVT1FQET6S5WY4QXD.uasset'
+[2023.02.15-04.48.37:597][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 914 ms)
+[2023.02.15-04.48.37:601][ 67]AssetCheck: New page: アセット保存：複数のアセット
+[2023.02.15-04.48.37:602][ 67]LogContentValidation: Display: /Script/Engine.AmbientSound /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AmbientSound_UAID_A8A159B95A9FD26601_1355437831 を検証しています
+[2023.02.15-04.48.37:602][ 67]LogContentValidation: Display: /Script/Engine.SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06 を検証しています
+[2023.02.15-04.48.40:275][337]LogSlate: Window 'Starter_Wind06' being destroyed
+[2023.02.15-04.48.40:290][337]LogSlate: Window 'Starter_Wind06' being destroyed
+[2023.02.15-04.49.39:012][703]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/StarterContent/Audio/Explosion01.Explosion01
+[2023.02.15-04.49.57:100][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.02.15-04.49.58:533][  6]LogSlate: Window 'コンテンツを保存' being destroyed
+[2023.02.15-04.49.58:543][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-04.49.58:597][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Audio/Explosion01" FILE="../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Content/StarterContent/Audio/Explosion01.uasset" SILENT=true
+[2023.02.15-04.49.58:599][  6]LogSavePackage: Moving output files for package: /Game/StarterContent/Audio/Explosion01
+[2023.02.15-04.49.58:599][  6]LogSavePackage: Moving '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Saved/Explosion017C73DF3F47255E871B9828AA4C481E7F.tmp' to '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Content/StarterContent/Audio/Explosion01.uasset'
+[2023.02.15-04.49.58:611][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 981 ms)
+[2023.02.15-04.49.58:616][  6]AssetCheck: New page: アセット保存：Explosion01
+[2023.02.15-04.49.58:616][  6]LogContentValidation: Display: /Script/Engine.SoundWave /Game/StarterContent/Audio/Explosion01.Explosion01 を検証しています
+[2023.02.15-04.50.01:012][218]LogSlate: Window 'Explosion01' being destroyed
+[2023.02.15-04.50.01:029][218]LogSlate: Window 'Explosion01' being destroyed
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display: ================================================
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display: Total job queries 163, among them cache hits 28 (17.18%)
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display: Tracking 135 distinct input hashes that result in 113 distinct outputs (83.70%)
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display: RAM used: 1.10 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.13%
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display: Shaders Compiled: 18
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100.00%)
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display: Average time worker was idle: 977.86 s
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display: Time job spent in pending queue: average 0.31 s, longest 1.30 s
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display: Job execution time: average 0.97 s, max 1.28 s
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display: Job life time (pending + execution): average 1.28 s, max 2.01
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.96 s
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display: Average processing rate: 4.55 jobs/sec
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display: Total thread time: 12.41 s
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display: Total thread preprocess time: 0.94 s
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display: Percentage time preprocessing: 7.61%
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display: Effective parallelization: 3.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.75 sec, max 0.90 sec, min 0.55 sec)
+[2023.02.15-04.50.58:985][504]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    7 times, average 0.74 sec, max 0.92 sec, min 0.50 sec)
+[2023.02.15-04.50.58:986][504]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2023.02.15-04.50.58:986][504]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.02.15-04.50.58:986][504]LogShaderCompilers: Display:                                            FDistortionMeshPS (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2023.02.15-04.50.58:986][504]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.15-04.50.58:986][504]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 41.79% of total time (compiled    7 times, average 0.74 sec, max 0.92 sec, min 0.50 sec)
+[2023.02.15-04.50.58:986][504]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 36.42% of total time (compiled    6 times, average 0.75 sec, max 0.90 sec, min 0.55 sec)
+[2023.02.15-04.50.58:986][504]LogShaderCompilers: Display:                                            FDistortionMeshVS - 5.62% of total time (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2023.02.15-04.50.58:986][504]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.03% of total time (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.02.15-04.50.58:986][504]LogShaderCompilers: Display:                                            FDistortionMeshPS - 4.95% of total time (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2023.02.15-04.50.58:986][504]LogShaderCompilers: Display: ================================================
+[2023.02.15-04.51.12:271][923]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02
+[2023.02.15-04.51.21:350][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.02.15-04.51.22:610][789]LogSlate: Window 'コンテンツを保存' being destroyed
+[2023.02.15-04.51.22:624][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-04.51.22:683][789]LogSavePackage: Moving output files for package: /Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02
+[2023.02.15-04.51.22:684][789]LogSavePackage: Moving '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Saved/FirstPersonTemplateWeaponFire02FEBAFC204ED2059B29BE1EB55F3F47A0.tmp' to '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uasset'
+[2023.02.15-04.51.22:692][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.05 sec)
+[2023.02.15-04.51.22:697][789]AssetCheck: New page: アセット保存：FirstPersonTemplateWeaponFire02
+[2023.02.15-04.51.22:697][789]LogContentValidation: Display: /Script/Engine.SoundWave /Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02 を検証しています
+[2023.02.15-04.51.24:399][955]LogSlate: Window 'FirstPersonTemplateWeaponFire02' being destroyed
+[2023.02.15-04.51.24:414][955]LogSlate: Window 'FirstPersonTemplateWeaponFire02' being destroyed
+[2023.02.15-04.51.38:061][434]LogDebuggerCommands: Repeating last play command: 選択ビューポート
+[2023.02.15-04.51.38:068][434]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.02.15-04.51.38:069][434]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.15-04.51.38:069][434]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.15-04.51.38:069][434]LogWorldPartition: Display: GetPartitionedActors took 22 us (total: 41 us)
+[2023.02.15-04.51.38:069][434]LogWorldPartition: Display: GenerateStreaming took 138 us (total: 524 us)
+[2023.02.15-04.51.38:069][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.15-04.51.38:069][434]PIE: New page: PIEセッション: FirstPersonMap (2023/02/15 22:51:38)
+[2023.02.15-04.51.38:069][434]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.15-04.51.38:073][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003515s)
+[2023.02.15-04.51.38:073][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003566s)
+[2023.02.15-04.51.38:073][434]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-04.51.38:073][434]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.02.15-04.51.38:073][434]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.02.15-04.51.38:073][434]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.15-04.51.38:073][434]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.02.15-04.51.38:074][434]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.02.15-04.51.38:074][434]LogWorldPartition: Display: WorldPartition initialize took 830 us (total: 272 ms)
+[2023.02.15-04.51.38:074][434]LogPlayLevel: PIE: World Init took: (0.001818s)
+[2023.02.15-04.51.38:095][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.02.15-04.51.38:096][434]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.02.15-04.51.38:097][434]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.15-04.51.38:097][434]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.15-04.51.38:097][434]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.15-04.51.38:097][434]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.15-04.51.38:097][434]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.15-04.51.38:097][434]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.15-04.51.38:097][434]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.15-04.51.38:097][434]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.15-04.51.38:097][434]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.15-04.51.38:097][434]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.15-04.51.38:097][434]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.15-04.51.38:099][434]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.15-04.51.38:114][434]LogAudioMixer: Display: Using Audio Hardware Device SHARP HDMI (NVIDIA High Definition Audio)
+[2023.02.15-04.51.38:115][434]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.15-04.51.38:115][434]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.15-04.51.38:115][434]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.15-04.51.38:118][434]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.02.15-04.51.38:118][434]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.02.15-04.51.38:119][434]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.02.15-04.51.38:119][434]LogInit: FAudioDevice initialized.
+[2023.02.15-04.51.38:119][434]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.02.15-04.51.38:119][434]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2023.02.15-04.51.38:122][434]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.15-04.51.38:123][434]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.02.15-13.51.38
+[2023.02.15-04.51.38:123][434]LogWorld: Bringing up level for play took: 0.001326
+[2023.02.15-04.51.38:126][434]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.02.15-04.51.38:128][434]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1430.000 Y=640.000 Z=98.338
+[2023.02.15-04.51.38:128][434]PIE: サーバーにログインしました
+[2023.02.15-04.51.38:129][434]PIE: PIE合計開始時間 0.061 秒。
+[2023.02.15-04.51.39:060][525]LogBlueprintUserMessages: [FirstPersonMap_C_5] START
+[2023.02.15-04.52.16:055][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-04.52.16:055][578]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.15-04.52.16:055][578]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-04.52.16:055][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-04.52.16:055][578]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.02.15-04.52.16:060][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.15-04.52.16:063][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-04.52.16:084][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-04.52.16:084][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.02.15-04.52.16:086][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.02.15-04.52.16:094][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.02.15-04.52.16:133][579]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.02.15-04.52.51:915][562]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06
+[2023.02.15-04.53.03:145][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.02.15-04.53.04:468][690]LogSlate: Window 'コンテンツを保存' being destroyed
+[2023.02.15-04.53.04:482][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-04.53.04:527][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Audio/Starter_Wind06" FILE="../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Content/StarterContent/Audio/Starter_Wind06.uasset" SILENT=true
+[2023.02.15-04.53.04:528][690]LogSavePackage: Moving output files for package: /Game/StarterContent/Audio/Starter_Wind06
+[2023.02.15-04.53.04:529][690]LogSavePackage: Moving '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Saved/Starter_Wind064DCC6CD04905077219963394537D34CE.tmp' to '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Content/StarterContent/Audio/Starter_Wind06.uasset'
+[2023.02.15-04.53.04:536][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 1.10 sec)
+[2023.02.15-04.53.04:540][690]AssetCheck: New page: アセット保存：Starter_Wind06
+[2023.02.15-04.53.04:540][690]LogContentValidation: Display: /Script/Engine.SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06 を検証しています
+[2023.02.15-04.53.06:542][896]LogSlate: Window 'Starter_Wind06' being destroyed
+[2023.02.15-04.53.06:558][896]LogSlate: Window 'Starter_Wind06' being destroyed
+[2023.02.15-04.53.12:709][575]LogDebuggerCommands: Repeating last play command: 選択ビューポート
+[2023.02.15-04.53.12:715][575]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.02.15-04.53.12:717][575]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.15-04.53.12:717][575]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.15-04.53.12:717][575]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 47 us)
+[2023.02.15-04.53.12:719][575]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 2 ms)
+[2023.02.15-04.53.12:719][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.15-04.53.12:719][575]PIE: New page: PIEセッション: FirstPersonMap (2023/02/15 22:53:12)
+[2023.02.15-04.53.12:744][575]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.15-04.53.12:748][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003323s)
+[2023.02.15-04.53.12:748][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003356s)
+[2023.02.15-04.53.12:748][575]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-04.53.12:749][575]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.02.15-04.53.12:749][575]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.02.15-04.53.12:749][575]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.15-04.53.12:749][575]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.02.15-04.53.12:749][575]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.02.15-04.53.12:749][575]LogWorldPartition: Display: WorldPartition initialize took 752 us (total: 273 ms)
+[2023.02.15-04.53.12:749][575]LogPlayLevel: PIE: World Init took: (0.001498s)
+[2023.02.15-04.53.12:769][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.02.15-04.53.12:770][575]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.02.15-04.53.12:770][575]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.15-04.53.12:770][575]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.15-04.53.12:770][575]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.15-04.53.12:770][575]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.15-04.53.12:770][575]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.15-04.53.12:770][575]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.15-04.53.12:770][575]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.15-04.53.12:770][575]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.15-04.53.12:771][575]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.15-04.53.12:771][575]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.15-04.53.12:771][575]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.15-04.53.12:772][575]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.15-04.53.12:787][575]LogAudioMixer: Display: Using Audio Hardware Device SHARP HDMI (NVIDIA High Definition Audio)
+[2023.02.15-04.53.12:787][575]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.15-04.53.12:787][575]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.15-04.53.12:787][575]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.15-04.53.12:788][575]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.02.15-04.53.12:788][575]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.02.15-04.53.12:789][575]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.02.15-04.53.12:789][575]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.02.15-04.53.12:789][575]LogInit: FAudioDevice initialized.
+[2023.02.15-04.53.12:789][575]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonMap'.
+[2023.02.15-04.53.12:792][575]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.15-04.53.12:792][575]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.02.15-13.53.12
+[2023.02.15-04.53.12:792][575]LogWorld: Bringing up level for play took: 0.000822
+[2023.02.15-04.53.12:795][575]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.02.15-04.53.12:796][575]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1430.000 Y=640.000 Z=98.338
+[2023.02.15-04.53.12:797][575]PIE: サーバーにログインしました
+[2023.02.15-04.53.12:797][575]PIE: PIE合計開始時間 0.081 秒。
+[2023.02.15-04.53.13:704][670]LogBlueprintUserMessages: [FirstPersonMap_C_5] START
+[2023.02.15-04.53.39:225][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-04.53.39:225][479]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.15-04.53.39:225][479]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-04.53.39:225][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-04.53.39:225][479]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.02.15-04.53.39:229][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.15-04.53.39:233][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-04.53.39:254][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-04.53.39:254][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.02.15-04.53.39:255][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.02.15-04.53.39:261][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.02.15-04.53.39:298][480]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.02.15-04.55.09:669][563]LogShaderCompilers: Display: ================================================
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: Total job queries 167, among them cache hits 28 (16.77%)
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: Tracking 139 distinct input hashes that result in 116 distinct outputs (83.45%)
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: RAM used: 1.12 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: Shaders Compiled: 18
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100.00%)
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: Average time worker was idle: 977.86 s
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: Time job spent in pending queue: average 0.31 s, longest 1.30 s
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: Job execution time: average 0.97 s, max 1.28 s
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: Job life time (pending + execution): average 1.28 s, max 2.01
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.96 s
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: Average processing rate: 4.55 jobs/sec
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: Total thread time: 12.41 s
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: Total thread preprocess time: 0.94 s
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: Percentage time preprocessing: 7.61%
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: Effective parallelization: 3.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.75 sec, max 0.90 sec, min 0.55 sec)
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    7 times, average 0.74 sec, max 0.92 sec, min 0.50 sec)
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display:                                            FDistortionMeshPS (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 41.79% of total time (compiled    7 times, average 0.74 sec, max 0.92 sec, min 0.50 sec)
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 36.42% of total time (compiled    6 times, average 0.75 sec, max 0.90 sec, min 0.55 sec)
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display:                                            FDistortionMeshVS - 5.62% of total time (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.03% of total time (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display:                                            FDistortionMeshPS - 4.95% of total time (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2023.02.15-04.55.09:671][563]LogShaderCompilers: Display: ================================================
+[2023.02.15-04.55.21:251][822]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.02.15-04.55.21:251][822]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-04.56.08:786][667]LogSlate: Took 0.004044 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.02.15-04.56.12:748][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.02.15-04.56.14:024][982]LogSlate: Window 'コンテンツを保存' being destroyed
+[2023.02.15-04.56.14:034][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-04.56.14:131][982]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.02.15-04.56.14:131][982]LogSavePackage: Moving '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Saved/BP_FirstPersonCharacterAADF48DB4BE02DC59A17A880FF8C55FF.tmp' to '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.02.15-04.56.14:139][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 1.21 sec)
+[2023.02.15-04.56.14:145][982]AssetCheck: New page: アセット保存：BP_FirstPersonCharacter
+[2023.02.15-04.56.14:145][982]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter を検証しています
+[2023.02.15-04.56.16:229][139]BlueprintLog: New page: BP_FirstPersonCharacter をコンパイル
+[2023.02.15-04.56.16:309][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.02.15-04.56.52:515][316]BlueprintLog: New page: BP_FirstPersonCharacter をコンパイル
+[2023.02.15-04.56.52:598][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.02.15-04.57.20:115][ 11]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2023.02.15-04.57.20:122][ 11]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2023.02.15-04.57.20:146][ 11]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-04.57.20:146][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-04.57.23:459][331]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Target.Target
+[2023.02.15-04.57.23:459][331]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-05.00.58:397][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-05.00.58:484][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Target" FILE="../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Content/BluePrints/Target.uasset" SILENT=true
+[2023.02.15-05.00.58:493][608]LogSavePackage: Moving output files for package: /Game/BluePrints/Target
+[2023.02.15-05.00.58:493][608]LogSavePackage: Moving '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Saved/Target63625E1E487DC3397C0C95BF7F2431B3.tmp' to '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Content/BluePrints/Target.uasset'
+[2023.02.15-05.00.58:503][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 1.31 sec)
+[2023.02.15-05.00.58:508][608]AssetCheck: New page: アセット保存：Target
+[2023.02.15-05.00.58:508][608]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrints/Target.Target を検証しています
+[2023.02.15-05.01.31:963][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.02.15-05.01.32:859][ 53]LogSlate: Window 'コンテンツを保存' being destroyed
+[2023.02.15-05.01.32:872][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-05.01.32:932][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Target" FILE="../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Content/BluePrints/Target.uasset" SILENT=true
+[2023.02.15-05.01.32:942][ 53]LogSavePackage: Moving output files for package: /Game/BluePrints/Target
+[2023.02.15-05.01.32:942][ 53]LogSavePackage: Moving '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Saved/TargetE838782A46A2C1621C894A878EECBFB2.tmp' to '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Content/BluePrints/Target.uasset'
+[2023.02.15-05.01.32:948][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 1.39 sec)
+[2023.02.15-05.01.32:954][ 53]AssetCheck: New page: アセット保存：Target
+[2023.02.15-05.01.32:954][ 53]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrints/Target.Target を検証しています
+[2023.02.15-05.01.34:693][232]BlueprintLog: New page: Target をコンパイル
+[2023.02.15-05.01.34:738][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.02.15-05.03.42:516][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.02.15-05.03.42:518][393]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.030
+[2023.02.15-05.03.42:518][393]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Target] ([2] browsable assets)...
+[2023.02.15-05.03.42:538][393]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Target.Target]
+[2023.02.15-05.03.42:538][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Target]
+[2023.02.15-05.03.42:538][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Target" FILE="../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Saved/Autosaves/Game/BluePrints/Target_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.02.15-05.03.42:547][393]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Target_Auto1
+[2023.02.15-05.03.42:547][393]LogSavePackage: Moving '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Saved/Target_Auto10E9A6B54417E6B586D1F37811566082F.tmp' to '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Saved/Autosaves/Game/BluePrints/Target_Auto1.uasset'
+[2023.02.15-05.03.42:549][393]LogFileHelpers: Auto-saving content packages took 0.031
+[2023.02.15-05.03.45:554][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.02.15-05.03.46:638][695]LogSlate: Window 'コンテンツを保存' being destroyed
+[2023.02.15-05.03.46:647][695]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-05.03.46:715][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Target" FILE="../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Content/BluePrints/Target.uasset" SILENT=true
+[2023.02.15-05.03.46:726][695]LogSavePackage: Moving output files for package: /Game/BluePrints/Target
+[2023.02.15-05.03.46:726][695]LogSavePackage: Moving '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Saved/TargetD09DB0D7482489B6E134B29BC8502AD1.tmp' to '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Content/BluePrints/Target.uasset'
+[2023.02.15-05.03.46:732][695]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 1.47 sec)
+[2023.02.15-05.03.46:736][695]AssetCheck: New page: アセット保存：Target
+[2023.02.15-05.03.46:737][695]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrints/Target.Target を検証しています
+[2023.02.15-05.03.48:564][876]BlueprintLog: New page: Target をコンパイル
+[2023.02.15-05.03.48:607][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.02.15-05.04.03:350][386]LogSlate: Window 'Target' being destroyed
+[2023.02.15-05.04.03:359][386]LogSlate: Window 'Target' being destroyed
+[2023.02.15-05.04.03:362][386]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-05.04.03:363][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-05.04.05:053][571]LogDebuggerCommands: Repeating last play command: 選択ビューポート
+[2023.02.15-05.04.05:059][571]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.02.15-05.04.05:070][571]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.15-05.04.05:070][571]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.15-05.04.05:070][571]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 52 us)
+[2023.02.15-05.04.05:071][571]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 3 ms)
+[2023.02.15-05.04.05:071][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.15-05.04.05:071][571]PIE: New page: PIEセッション: FirstPersonMap (2023/02/15 23:04:05)
+[2023.02.15-05.04.05:071][571]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.15-05.04.05:074][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003047s)
+[2023.02.15-05.04.05:074][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003069s)
+[2023.02.15-05.04.05:074][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-05.04.05:075][571]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.02.15-05.04.05:075][571]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.02.15-05.04.05:075][571]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.15-05.04.05:075][571]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.02.15-05.04.05:076][571]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.02.15-05.04.05:076][571]LogWorldPartition: Display: WorldPartition initialize took 773 us (total: 274 ms)
+[2023.02.15-05.04.05:076][571]LogPlayLevel: PIE: World Init took: (0.001705s)
+[2023.02.15-05.04.05:096][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.02.15-05.04.05:103][571]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.02.15-05.04.05:103][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.15-05.04.05:103][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.15-05.04.05:103][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.15-05.04.05:103][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.15-05.04.05:103][571]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.15-05.04.05:103][571]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.15-05.04.05:103][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.15-05.04.05:103][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.15-05.04.05:104][571]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.15-05.04.05:104][571]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.15-05.04.05:104][571]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.15-05.04.05:106][571]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.15-05.04.05:121][571]LogAudioMixer: Display: Using Audio Hardware Device SHARP HDMI (NVIDIA High Definition Audio)
+[2023.02.15-05.04.05:121][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.15-05.04.05:121][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.15-05.04.05:121][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.15-05.04.05:122][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.02.15-05.04.05:122][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.02.15-05.04.05:123][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.02.15-05.04.05:123][571]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.02.15-05.04.05:123][571]LogInit: FAudioDevice initialized.
+[2023.02.15-05.04.05:123][571]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonMap'.
+[2023.02.15-05.04.05:126][571]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.15-05.04.05:127][571]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.02.15-14.04.05
+[2023.02.15-05.04.05:128][571]LogWorld: Bringing up level for play took: 0.001053
+[2023.02.15-05.04.05:129][571]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.02.15-05.04.05:130][571]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1430.000 Y=640.000 Z=98.338
+[2023.02.15-05.04.05:131][571]PIE: サーバーにログインしました
+[2023.02.15-05.04.05:132][571]PIE: PIE合計開始時間 0.073 秒。
+[2023.02.15-05.04.06:524][626]LogBlueprintUserMessages: [FirstPersonMap_C_5] START
+[2023.02.15-05.04.12:023][239]LogBlueprintUserMessages: [Target_C_4] 10
+[2023.02.15-05.04.13:513][407]LogBlueprintUserMessages: [Target_C_7] 20
+[2023.02.15-05.04.15:212][588]LogBlueprintUserMessages: [Target_C_10] 30
+[2023.02.15-05.04.17:725][868]LogBlueprintUserMessages: [Target_C_16] 40
+[2023.02.15-05.04.19:619][ 77]LogBlueprintUserMessages: [Target_C_18] 50
+[2023.02.15-05.04.20:801][206]LogBlueprintUserMessages: [Target_C_21] 60
+[2023.02.15-05.04.22:532][396]LogBlueprintUserMessages: [Target_C_24] 70
+[2023.02.15-05.04.25:724][745]LogBlueprintUserMessages: [Target_C_31] 80
+[2023.02.15-05.04.29:165][118]LogBlueprintUserMessages: [Target_C_39] 90
+[2023.02.15-05.04.29:630][169]LogBlueprintUserMessages: [Target_C_35] 100
+[2023.02.15-05.04.30:231][235]LogBlueprintUserMessages: [Target_C_41] 110
+[2023.02.15-05.04.31:281][349]LogBlueprintUserMessages: [Target_C_42] 120
+[2023.02.15-05.04.31:785][403]LogBlueprintUserMessages: [Target_C_43] 130
+[2023.02.15-05.04.32:709][505]LogBlueprintUserMessages: [Target_C_46] 140
+[2023.02.15-05.04.34:782][735]LogBlueprintUserMessages: [Target_C_49] 150
+[2023.02.15-05.04.36:020][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-05.04.36:020][868]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.15-05.04.36:021][868]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-05.04.36:021][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-05.04.36:021][868]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.02.15-05.04.36:026][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.15-05.04.36:029][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-05.04.36:050][868]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.15-05.04.36:050][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.02.15-05.04.36:052][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.02.15-05.04.36:056][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-05.04.36:060][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.02.15-05.04.36:103][869]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.02.15-05.05.06:437][703]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle
+[2023.02.15-05.05.06:437][703]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-05.07.05:853][545]LogSlate: Window 'BP_Pickup_Rifle' being destroyed
+[2023.02.15-05.07.05:899][545]LogSlate: Window 'BP_Pickup_Rifle' being destroyed
+[2023.02.15-05.07.05:942][545]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-05.07.05:943][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-05.07.54:451][324]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2023.02.15-05.07.54:451][324]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: ================================================
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: Total job queries 176, among them cache hits 32 (18.18%)
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: Tracking 144 distinct input hashes that result in 119 distinct outputs (82.64%)
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: RAM used: 1.16 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: Shaders Compiled: 18
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100.00%)
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: Average time worker was idle: 977.86 s
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: Time job spent in pending queue: average 0.31 s, longest 1.30 s
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: Job execution time: average 0.97 s, max 1.28 s
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: Job life time (pending + execution): average 1.28 s, max 2.01
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.96 s
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: Average processing rate: 4.55 jobs/sec
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: Total thread time: 12.41 s
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: Total thread preprocess time: 0.94 s
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: Percentage time preprocessing: 7.61%
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: Effective parallelization: 3.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.75 sec, max 0.90 sec, min 0.55 sec)
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    7 times, average 0.74 sec, max 0.92 sec, min 0.50 sec)
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display:                                            FDistortionMeshPS (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 41.79% of total time (compiled    7 times, average 0.74 sec, max 0.92 sec, min 0.50 sec)
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 36.42% of total time (compiled    6 times, average 0.75 sec, max 0.90 sec, min 0.55 sec)
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display:                                            FDistortionMeshVS - 5.62% of total time (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.03% of total time (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display:                                            FDistortionMeshPS - 4.95% of total time (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2023.02.15-05.07.54:988][326]LogShaderCompilers: Display: ================================================
+[2023.02.15-05.09.17:512][659]LogSlate: Window 'BP_Weapon_Component' being destroyed
+[2023.02.15-05.09.17:522][659]LogSlate: Window 'BP_Weapon_Component' being destroyed
+[2023.02.15-05.09.17:554][659]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-05.09.17:554][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-05.09.20:409][928]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle
+[2023.02.15-05.09.20:409][928]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-05.12.22:208][269]LogSlate: Window 'BP_Pickup_Rifle' being destroyed
+[2023.02.15-05.12.22:217][269]LogSlate: Window 'BP_Pickup_Rifle' being destroyed
+[2023.02.15-05.12.22:255][269]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-05.12.22:255][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-05.12.23:532][404]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2023.02.15-05.12.23:532][404]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-05.13.03:028][173]LogSlate: Window 'BP_Weapon_Component' being destroyed
+[2023.02.15-05.13.03:035][173]LogSlate: Window 'BP_Weapon_Component' being destroyed
+[2023.02.15-05.13.03:040][173]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-05.13.03:040][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-05.13.08:680][821]LogContentBrowser: Attempting asset rename: BP_Weapon_Component -> BP_Weapon_Component
+[2023.02.15-05.16.05:649][601]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2023.02.15-05.16.05:650][601]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-05.17.06:549][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.02.15-05.17.06:552][358]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.035
+[2023.02.15-05.17.06:553][358]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Weapon_Component] ([2] browsable assets)...
+[2023.02.15-05.17.06:553][358]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Weapon_Component]
+[2023.02.15-05.17.06:563][358]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Weapon_Component_Auto2
+[2023.02.15-05.17.06:563][358]LogSavePackage: Moving '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Saved/BP_Weapon_Component_Auto2F2B2E1804586CCCEDC4964B3F90789EB.tmp' to '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Weapon_Component_Auto2.uasset'
+[2023.02.15-05.17.06:563][358]LogFileHelpers: Auto-saving content packages took 0.012
+[2023.02.15-05.19.25:464][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.02.15-05.19.26:684][580]LogSlate: Window 'コンテンツを保存' being destroyed
+[2023.02.15-05.19.26:695][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-05.19.26:740][580]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2023.02.15-05.19.26:740][580]LogSavePackage: Moving '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Saved/BP_Weapon_ComponentFBFBBB264A975B5880EF2287402B0892.tmp' to '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2023.02.15-05.19.26:746][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 1.52 sec)
+[2023.02.15-05.19.26:753][580]AssetCheck: New page: アセット保存：BP_Weapon_Component
+[2023.02.15-05.19.26:753][580]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component を検証しています
+[2023.02.15-05.19.28:065][707]BlueprintLog: New page: BP_Weapon_Component をコンパイル
+[2023.02.15-05.19.28:100][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.02.15-05.19.29:742][856]LogSlate: Window 'BP_Weapon_Component' being destroyed
+[2023.02.15-05.19.29:751][856]LogSlate: Window 'BP_Weapon_Component' being destroyed
+[2023.02.15-05.19.29:755][856]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-05.19.29:755][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-05.19.32:506][171]LogDebuggerCommands: Repeating last play command: 選択ビューポート
+[2023.02.15-05.19.32:512][171]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.02.15-05.19.32:512][171]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.15-05.19.32:513][171]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.15-05.19.32:513][171]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 59 us)
+[2023.02.15-05.19.32:514][171]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 4 ms)
+[2023.02.15-05.19.32:515][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.15-05.19.32:515][171]PIE: New page: PIEセッション: FirstPersonMap (2023/02/15 23:19:32)
+[2023.02.15-05.19.32:515][171]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.15-05.19.32:517][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003520s)
+[2023.02.15-05.19.32:517][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003548s)
+[2023.02.15-05.19.32:518][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-05.19.32:518][171]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.02.15-05.19.32:518][171]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.02.15-05.19.32:518][171]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.15-05.19.32:518][171]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.02.15-05.19.32:520][171]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.02.15-05.19.32:520][171]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 275 ms)
+[2023.02.15-05.19.32:520][171]LogPlayLevel: PIE: World Init took: (0.002210s)
+[2023.02.15-05.19.32:541][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.02.15-05.19.32:549][171]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.02.15-05.19.32:549][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.15-05.19.32:549][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.15-05.19.32:549][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.15-05.19.32:549][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.15-05.19.32:549][171]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.15-05.19.32:549][171]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.15-05.19.32:549][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.15-05.19.32:549][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.15-05.19.32:550][171]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.15-05.19.32:550][171]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.15-05.19.32:550][171]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.15-05.19.32:552][171]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.15-05.19.32:566][171]LogAudioMixer: Display: Using Audio Hardware Device SHARP HDMI (NVIDIA High Definition Audio)
+[2023.02.15-05.19.32:566][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.15-05.19.32:566][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.15-05.19.32:566][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.15-05.19.32:567][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.02.15-05.19.32:567][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.02.15-05.19.32:568][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.02.15-05.19.32:568][171]LogInit: FAudioDevice initialized.
+[2023.02.15-05.19.32:568][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.02.15-05.19.32:568][171]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonMap'.
+[2023.02.15-05.19.32:571][171]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.15-05.19.32:572][171]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.02.15-14.19.32
+[2023.02.15-05.19.32:572][171]LogWorld: Bringing up level for play took: 0.000883
+[2023.02.15-05.19.32:574][171]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.02.15-05.19.32:575][171]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1430.000 Y=640.000 Z=98.338
+[2023.02.15-05.19.32:576][171]PIE: サーバーにログインしました
+[2023.02.15-05.19.32:576][171]PIE: PIE合計開始時間 0.065 秒。
+[2023.02.15-05.19.34:056][223]LogBlueprintUserMessages: [FirstPersonMap_C_5] START
+[2023.02.15-05.19.37:625][621]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.38:375][705]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.40:766][971]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.41:082][  6]LogBlueprintUserMessages: [Target_C_6] 10
+[2023.02.15-05.19.41:411][ 42]LogBlueprintUserMessages: [Target_C_7] 20
+[2023.02.15-05.19.42:286][137]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.43:137][230]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.44:201][349]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.45:296][472]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.46:411][596]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.47:553][724]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.48:163][793]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.48:940][880]LogBlueprintUserMessages: [Target_C_21] 30
+[2023.02.15-05.19.49:257][915]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.50:609][ 65]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.51:349][147]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.51:846][202]LogBlueprintUserMessages: [Target_C_29] 40
+[2023.02.15-05.19.52:166][237]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.53:355][369]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.54:070][448]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.54:815][532]LogBlueprintUserMessages: [Target_C_35] 50
+[2023.02.15-05.19.55:068][560]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.56:456][716]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.57:493][831]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.58:414][931]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.59:008][994]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.19.59:995][103]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.00:943][207]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.01:654][285]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.02:501][378]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.03:339][469]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.04:005][540]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.04:237][565]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.04:368][579]LogBlueprintUserMessages: [Target_C_53] 60
+[2023.02.15-05.20.04:917][637]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.05:401][689]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.05:855][738]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.06:539][812]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.06:915][853]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.07:244][889]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.07:245][889]LogBlueprintUserMessages: [Target_C_60] 70
+[2023.02.15-05.20.07:758][944]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.08:230][995]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.08:892][ 67]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.08:951][ 73]LogBlueprintUserMessages: [Target_C_63] 80
+[2023.02.15-05.20.09:221][102]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.09:496][132]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.09:715][156]LogBlueprintUserMessages: [Target_C_64] 90
+[2023.02.15-05.20.09:817][167]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.09:945][181]LogBlueprintUserMessages: [Target_C_65] 100
+[2023.02.15-05.20.10:598][252]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.10:833][277]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.11:318][329]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.11:615][361]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.11:826][384]LogBlueprintUserMessages: [Target_C_69] 110
+[2023.02.15-05.20.11:937][396]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.12:421][448]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.12:700][478]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.12:755][484]LogBlueprintUserMessages: [Target_C_71] 120
+[2023.02.15-05.20.12:989][509]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.13:683][584]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.13:921][610]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.14:159][636]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.14:434][666]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.14:728][698]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.14:963][724]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.15:232][754]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.15:286][760]LogBlueprintUserMessages: [Target_C_75] 130
+[2023.02.15-05.20.15:377][770]LogBlueprintUserMessages: [Target_C_77] 140
+[2023.02.15-05.20.15:404][773]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.15:864][823]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.16:078][846]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.16:521][894]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.16:762][920]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.16:996][945]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.17:216][969]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.17:467][996]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.18:084][ 63]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.18:304][ 87]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] トリガー押した時
+[2023.02.15-05.20.18:542][113]LogBlueprintUserMessages: [Target_C_82] 150
+[2023.02.15-05.20.19:030][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-05.20.19:030][163]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.15-05.20.19:030][163]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-05.20.19:030][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-05.20.19:030][163]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.02.15-05.20.19:035][163]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.15-05.20.19:039][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-05.20.19:059][163]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.15-05.20.19:059][163]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.02.15-05.20.19:060][163]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.02.15-05.20.19:064][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-05.20.19:068][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.02.15-05.20.19:153][164]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.02.15-05.20.37:457][ 99]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2023.02.15-05.20.37:457][ 99]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-05.26.25:147][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.02.15-05.26.26:321][780]LogSlate: Window 'コンテンツを保存' being destroyed
+[2023.02.15-05.26.26:331][780]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-05.26.26:395][780]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2023.02.15-05.26.26:396][780]LogSavePackage: Moving '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Saved/BP_Weapon_ComponentFDDD6E2E45A93DA0510C09B9B7121640.tmp' to '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2023.02.15-05.26.26:401][780]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1.59 sec)
+[2023.02.15-05.26.26:408][780]AssetCheck: New page: アセット保存：BP_Weapon_Component
+[2023.02.15-05.26.26:408][780]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component を検証しています
+[2023.02.15-05.26.28:294][964]BlueprintLog: New page: BP_Weapon_Component をコンパイル
+[2023.02.15-05.26.28:334][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.02.15-05.26.41:792][998]LogSlate: Window 'Unreal Editorについて' being destroyed
+[2023.02.15-05.27.01:800][ 26]BlueprintLog: New page: BP_Weapon_Component をコンパイル
+[2023.02.15-05.27.01:839][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.02.15-05.28.37:463][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.02.15-05.28.38:725][598]LogSlate: Window 'コンテンツを保存' being destroyed
+[2023.02.15-05.28.38:736][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-05.28.38:817][598]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2023.02.15-05.28.38:817][598]LogSavePackage: Moving '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Saved/BP_Weapon_Component4FC93BBF49473B2C7171318C3DDC91C1.tmp' to '../../../../../../GitHub/UE5_ShootingGame/ShootingGame/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2023.02.15-05.28.38:824][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1.68 sec)
+[2023.02.15-05.28.38:830][598]AssetCheck: New page: アセット保存：BP_Weapon_Component
+[2023.02.15-05.28.38:830][598]LogContentValidation: Display: /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component を検証しています
+[2023.02.15-05.28.40:779][780]BlueprintLog: New page: BP_Weapon_Component をコンパイル
+[2023.02.15-05.28.40:815][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.02.15-05.28.52:466][957]LogSlate: Window 'BP_Weapon_Component' being destroyed
+[2023.02.15-05.28.52:476][957]LogSlate: Window 'BP_Weapon_Component' being destroyed
+[2023.02.15-05.28.52:479][957]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-05.28.52:479][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-05.28.55:560][287]LogDebuggerCommands: Repeating last play command: 選択ビューポート
+[2023.02.15-05.28.55:566][287]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.02.15-05.28.55:566][287]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.15-05.28.55:566][287]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.15-05.28.55:566][287]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 66 us)
+[2023.02.15-05.28.55:568][287]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 6 ms)
+[2023.02.15-05.28.55:568][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.15-05.28.55:568][287]PIE: New page: PIEセッション: FirstPersonMap (2023/02/15 23:28:55)
+[2023.02.15-05.28.55:569][287]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.15-05.28.55:572][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003434s)
+[2023.02.15-05.28.55:572][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003468s)
+[2023.02.15-05.28.55:572][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-05.28.55:572][287]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.02.15-05.28.55:573][287]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.02.15-05.28.55:573][287]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.15-05.28.55:573][287]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.02.15-05.28.55:574][287]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.02.15-05.28.55:574][287]LogWorldPartition: Display: WorldPartition initialize took 929 us (total: 276 ms)
+[2023.02.15-05.28.55:574][287]LogPlayLevel: PIE: World Init took: (0.001871s)
+[2023.02.15-05.28.55:595][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.02.15-05.28.55:602][287]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.02.15-05.28.55:602][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.15-05.28.55:602][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.15-05.28.55:602][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.15-05.28.55:602][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.15-05.28.55:602][287]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.15-05.28.55:602][287]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.15-05.28.55:602][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.15-05.28.55:602][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.15-05.28.55:602][287]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.15-05.28.55:602][287]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.15-05.28.55:602][287]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.15-05.28.55:605][287]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.15-05.28.55:621][287]LogAudioMixer: Display: Using Audio Hardware Device SHARP HDMI (NVIDIA High Definition Audio)
+[2023.02.15-05.28.55:621][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.15-05.28.55:621][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.15-05.28.55:621][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.15-05.28.55:621][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.02.15-05.28.55:621][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.02.15-05.28.55:624][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.02.15-05.28.55:624][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.02.15-05.28.55:624][287]LogInit: FAudioDevice initialized.
+[2023.02.15-05.28.55:624][287]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonMap'.
+[2023.02.15-05.28.55:626][287]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.15-05.28.55:627][287]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.02.15-14.28.55
+[2023.02.15-05.28.55:628][287]LogWorld: Bringing up level for play took: 0.000981
+[2023.02.15-05.28.55:630][287]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.02.15-05.28.55:632][287]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1430.000 Y=640.000 Z=98.338
+[2023.02.15-05.28.55:633][287]PIE: サーバーにログインしました
+[2023.02.15-05.28.55:634][287]PIE: PIE合計開始時間 0.068 秒。
+[2023.02.15-05.28.56:829][343]LogBlueprintUserMessages: [FirstPersonMap_C_5] START
+[2023.02.15-05.28.59:787][668]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -1
+[2023.02.15-05.29.00:334][730]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -2
+[2023.02.15-05.29.00:750][776]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -3
+[2023.02.15-05.29.01:557][866]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -4
+[2023.02.15-05.29.01:974][912]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -5
+[2023.02.15-05.29.03:092][ 32]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -6
+[2023.02.15-05.29.03:680][ 96]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -7
+[2023.02.15-05.29.04:864][224]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -8
+[2023.02.15-05.29.05:976][342]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -9
+[2023.02.15-05.29.06:561][404]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -10
+[2023.02.15-05.29.07:080][461]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -11
+[2023.02.15-05.29.08:210][585]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -12
+[2023.02.15-05.29.09:009][675]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -13
+[2023.02.15-05.29.09:910][775]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -14
+[2023.02.15-05.29.10:299][817]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -15
+[2023.02.15-05.29.11:340][930]LogBlueprintUserMessages: [Target_C_24] -5
+[2023.02.15-05.29.12:018][  4]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -6
+[2023.02.15-05.29.13:446][158]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -7
+[2023.02.15-05.29.14:002][217]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -8
+[2023.02.15-05.29.14:997][325]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -9
+[2023.02.15-05.29.15:505][381]LogBlueprintUserMessages: [Target_C_27] 1
+[2023.02.15-05.29.16:800][523]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0
+[2023.02.15-05.29.17:456][595]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -1
+[2023.02.15-05.29.17:743][627]LogBlueprintUserMessages: [Target_C_36] 9
+[2023.02.15-05.29.20:350][918]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 8
+[2023.02.15-05.29.20:788][966]LogBlueprintUserMessages: [Target_C_43] 18
+[2023.02.15-05.29.22:374][141]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 17
+[2023.02.15-05.29.23:526][268]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 16
+[2023.02.15-05.29.24:848][412]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 15
+[2023.02.15-05.29.25:937][532]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 14
+[2023.02.15-05.29.26:791][625]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 13
+[2023.02.15-05.29.27:204][670]LogBlueprintUserMessages: [Target_C_51] 23
+[2023.02.15-05.29.27:298][680]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 22
+[2023.02.15-05.29.27:588][711]LogBlueprintUserMessages: [Target_C_56] 32
+[2023.02.15-05.29.29:248][893]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 31
+[2023.02.15-05.29.30:607][ 40]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 30
+[2023.02.15-05.29.30:902][ 72]LogBlueprintUserMessages: [Target_C_60] 40
+[2023.02.15-05.29.32:684][265]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 39
+[2023.02.15-05.29.33:513][356]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 38
+[2023.02.15-05.29.34:449][457]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 37
+[2023.02.15-05.29.34:837][499]LogBlueprintUserMessages: [Target_C_67] 47
+[2023.02.15-05.29.36:109][638]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 46
+[2023.02.15-05.29.36:938][726]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 45
+[2023.02.15-05.29.37:701][808]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 44
+[2023.02.15-05.29.37:995][840]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 43
+[2023.02.15-05.29.38:359][880]LogBlueprintUserMessages: [Target_C_79] 53
+[2023.02.15-05.29.38:574][903]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 52
+[2023.02.15-05.29.39:553][ 10]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 51
+[2023.02.15-05.29.39:830][ 40]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 50
+[2023.02.15-05.29.40:170][ 77]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 49
+[2023.02.15-05.29.40:505][113]LogBlueprintUserMessages: [Target_C_81] 59
+[2023.02.15-05.29.40:552][118]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 58
+[2023.02.15-05.29.40:866][152]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 57
+[2023.02.15-05.29.41:166][185]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 56
+[2023.02.15-05.29.41:520][223]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 55
+[2023.02.15-05.29.41:855][259]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 54
+[2023.02.15-05.29.41:948][269]LogBlueprintUserMessages: [Target_C_85] 64
+[2023.02.15-05.29.44:072][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-05.29.44:072][489]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.15-05.29.44:073][489]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-05.29.44:073][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-05.29.44:073][489]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.02.15-05.29.44:078][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.15-05.29.44:082][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-05.29.44:102][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-05.29.44:102][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.02.15-05.29.44:104][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.02.15-05.29.44:112][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.02.15-05.29.44:150][490]LogPlayLevel: Display: Destroying online subsystem :Context_25
